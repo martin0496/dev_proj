@@ -1,1 +1,1 @@
-this is the dev project
+this is the dev project about git repo
