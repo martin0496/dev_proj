@@ -1,1 +1,1 @@
-version 1.5.3
+dev_proj informations and tutorial version 2
