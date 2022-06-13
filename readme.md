@@ -1,1 +1,1 @@
-hi community !!!! this is the dev project about git repo
+resolving merge conflicts !!!
